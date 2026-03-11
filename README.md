@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Nho
 
 Embedded Systems Engineer focused on firmware development, control systems, and IoT applications.
+
 ---
 
 ## Skills
@@ -11,6 +12,7 @@ Embedded Systems Engineer focused on firmware development, control systems, and 
 - Peripheral Drivers (UART, SPI, I2C, ADC, PWM)
 - State Machine & RTOS Design
 - Control Systems (PID, LQR)
+
 ---
 
 ## Tools
@@ -22,6 +24,7 @@ Embedded Systems Engineer focused on firmware development, control systems, and 
 - Altium Designer
 - Proteus
 - Git
+
 ---
 
 ## Featured Projects
@@ -36,6 +39,7 @@ Features:
 - Remote control via web interface
 - Sensor data acquisition using ESP32
 - Automated irrigation control
+
 ---
 
 ### Self Balancing Line Follower Robot
@@ -49,6 +53,7 @@ Features:
 - MPU6050 IMU for angle estimation
 - Mobile phone remote control
 - Real-time motor control using PWM
+
 ---
 
 ## Contact
