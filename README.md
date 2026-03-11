@@ -23,7 +23,7 @@ Embedded Systems Engineer focused on firmware development and IoT systems.
 ESP32-based smart irrigation system connected to Firebase with web monitoring dashboard.
 
 ### Self Balancing Line Follower Robot
-Two-wheel autonomous robot using MPU6050 and PID control.
+Two-wheel self-balancing robot using LQR control for stabilization and PID control for autonomous line following, with MPU6050 IMU and mobile phone remote control.
 
 ## Contact
 
